@@ -1,0 +1,13 @@
+OPENAI_API_KEY=xxx
+GOOGLE_ID=xxx
+GOOGLE_SECRET=xxx
+NEXTAUTH_URL=xxx
+NEXTAUTH_SECRET=example_secret
+
+// Dont forget in this build you need a serviceAccountKey.json from Firebase for the Firebase Admin API to function correctly!
+
+// Use this to remove line breaks before submitting the JSON file to your vercel env. https://www.textfixer.com/tools/remove-line-breaks.php
+
+// then copy the contents to the below key
+
+FIREBASE_SERVICE_ACCOUNT_KEY=...
