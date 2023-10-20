@@ -20,7 +20,7 @@ Before installation make sure you have bun
 bun --version
 ```
 
-Otherwise download here https://bun.sh/, after the installation of npm you can start with bun installation:
+Otherwise You need to download bun, that is currently today available for macOS and Linux(October 20, 2023):
 
 ```
 curl -fsSL https://bun.sh/install | bash
