@@ -20,7 +20,7 @@ Before installation make sure you have bun
 bun --version
 ```
 
-Otherwise ddownload here https://bun.sh/, after the installation of npm you can start with yarn installation:
+Otherwise download here https://bun.sh/, after the installation of npm you can start with bun installation:
 
 ```
 curl -fsSL https://bun.sh/install | bash
